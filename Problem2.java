@@ -1,5 +1,5 @@
 //o(n) time complexity
-//o(2n) space complexity
+// Since max of 26 characters allowed in both hashmaps its o(1) space complecity
 
 class Solution {
     public boolean isIsomorphic(String s, String t) {
